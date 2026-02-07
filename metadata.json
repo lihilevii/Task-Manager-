@@ -1,0 +1,5 @@
+{
+  "name": "מנהל משימות (Task Manager)",
+  "description": "A Hebrew Task Manager built with React 19, focusing on CRUD operations, local storage persistence, and component architecture.",
+  "requestFramePermissions": []
+}
